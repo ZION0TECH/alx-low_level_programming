@@ -3,7 +3,7 @@
 /**
  * main - function to Prints combinations of two numbers
  *
- * Return: Always 0 on success
+ * Return : Always 0 on success
  */
 
 int main(void)
