@@ -16,7 +16,7 @@ if (nmemb == 0 || size == 0)
 return (NULL);
 t = malloc(nmemb * size);
 if (t == NULL)
-                return (NULL);
+return (NULL);
 for (i = 0; i < nmemb * size; i++)
 t[i] = 0;
 
